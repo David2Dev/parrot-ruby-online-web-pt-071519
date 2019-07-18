@@ -2,4 +2,6 @@ def parrot
   puts "Squawk!"
 end
 
-def parrot()
+def parrot(phrase)
+  puts "Squawk!"
+end
